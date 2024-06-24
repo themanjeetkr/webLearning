@@ -1,0 +1,36 @@
+/* #hello{ */
+ 
+
+    /* background-color: blue; */
+    /* background-color: gold;
+    border width:4px; */
+}
+#man{
+    background-color: chartreuse;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+
+
+}
+
+span{
+    font-weight: bold;
+    font-family: inherit;
+    font-size: xx-large;
+}
+#hello{
+    background-color: aqua;
+    height: 200px;
+    width: 400px;
+    border: 4px;
+    border-color: chartreuse;
+
+}
+#para2{
+    background-color: brown;
+    height: 400px;
+    width: 100
+    border: 12px;
+    border
+}
